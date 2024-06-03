@@ -45,21 +45,16 @@ Para executar este projeto, você precisará:
 
 4. Modifique a string de conexão OracleConnection para apontar para seu banco de dados Oracle.
 
-5. Executar Migrações
-
-```bash
-  dotnet ef database update
-```
-6. **No terminal ou no console de comando do Visual Studio, execute:**
+5. **No terminal ou no console de comando do Visual Studio, execute:**
 ```bash
 dotnet ef database update
 ``` 
 
-7. **Iniciar o Projeto**
+6. **Iniciar o Projeto**
 
-8. **Ao rodar a aplicação, será aberto uma guia do seu navegador padrão com o swagger configurado para testar as requisições.**
+7. **Ao rodar a aplicação, será aberto uma guia do seu navegador padrão com o swagger configurado para testar as requisições.**
 
-9. **Acessar a API via Swagger**
+8. **Acessar a API via Swagger**
 
 
 ## 📝 Endpoints para Teste
