@@ -71,3 +71,11 @@ dotnet ef database update
 
 ### **Endpoint de DELETE**
 - DELETE /api/navio/{id}: Deleta um navio pelo ID.
+
+### Autores
+---
+- <sub><b>RM96920 - Matheus Ramos de Pierro</b></sub>
+- <sub><b>RM97187 - Victor Shimada Serete</b></sub>
+- <sub><b>RM97121 - Gabriel Tricerri André Niacaris</b></sub>
+- <sub><b>RM97097 - Felipe de Lima Santiago</b></sub>
+- <sub><b>RM97136 - Thiago Gyorgy Teixeira de Castro</b></sub>
