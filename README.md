@@ -12,12 +12,6 @@ A solução "Clean Boarding" inclui:
 - **Tratamento Eficiente:** Aplicação de tecnologias avançadas para neutralizar organismos nocivos antes que a água seja descarregada.
 - **Deslastro Seguro:** Liberação da água tratada em áreas aprovadas e seguras, longe das zonas costeiras, para evitar impactos ambientais adversos.
 
-## 🛠 Tecnologias Utilizadas
-- **React Native:** Framework utilizado para o desenvolvimento do aplicativo móvel, proporcionando uma experiência nativa tanto para Android quanto para iOS.
-- **Firebase:** Utilizado para autenticação de usuários e armazenamento de dados.
-- **Expo:** Plataforma de open-source que permite o desenvolvimento rápido de aplicações usando React Native.
-- **IoT e AI:** Sensores e inteligência artificial são empregados para o monitoramento e tratamento da água de lastro.
-
 ### Principais Funcionalidades
 - **Cadastrar Navios**: Adiciona novos navios ao sistema.
 - **Visualizar Navios**: Permite a consulta de todos os navios cadastrados ou de um navio específico pelo ID.
